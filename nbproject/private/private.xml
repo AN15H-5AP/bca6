@@ -3,33 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab2/CheckProtocols.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab1/HostReachability.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab4/DisplayContentInfo.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab4/ResponseHeaders.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab4/GetMimeTypeLocalFiles.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab2/DownloadWebPage.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab1/NetworkAdapters.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab1/qn1.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab2/ResolveRelativeURI.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab4/SecurityPermissions.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/AdvanceJava/colors.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab1/HostInfo.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab1/AddressComparison.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab5/WriteToNIST.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab5/WhoisClient.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab1/AllAddress.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab4/GetMimeTypeInternetResource.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab5/ReadFromNIST.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab1/AddressCheck.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab2/CommunicateWithGET.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab3/CookieStoreExample.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab2/UrlEncoded.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab1/LocalMachineInfo.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab2/SplitUrl.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab5/PortScanner.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab2/DownloadObject.java</file>
-            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab3/cookiePolicy.java</file>
+            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab6/EchoServer.java</file>
+            <file>file:/home/devil/NetBeansProjects/bca6/src/networkProgramming/lab6/EchoClient.java</file>
         </group>
     </open-files>
 </project-private>
